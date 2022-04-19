@@ -1,0 +1,22 @@
+ARRAY:
+
+1. An array is a collection of elements of a similar data type.
+2. Array elements store in a contiguous memory location.
+3. Array works with a static memory. Here static memory means that the memory size is fixed and cannot 
+   be changed at the run time.
+4. Array elements are independent of each other.
+5. Array takes more time while performing any operation like insertion, deletion, etc.
+6. Accessing any element in an array is faster as the element in an array can be directly accessed through the index.
+7. In the case of an array, memory is allocated at compile-time.
+
+LINKEDLIST :
+
+1. A linked list is a collection of objects known as a node where node consists of two parts, i.e., data and address.
+2. Linked list elements can be stored anywhere in the memory or randomly stored.
+3. The Linked list works with dynamic memory. Here, dynamic memory means that the memory size can be 
+   changed at the run time according to our requirements.
+4. Linked list elements are dependent on each other. As each node contains the address of the next node so to access the next node,
+   we need to access its previous node.
+5. Linked list takes less time while performing any operation like insertion, deletion, etc.
+6. Accessing an element in a linked list is slower as it starts traversing from the first element of the linked list.
+7. In the case of a linked list, memory is allocated at run time.

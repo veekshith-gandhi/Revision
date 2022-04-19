@@ -7,7 +7,7 @@ Adaptability or ability to learn new things
 Implementation / Skills
 Knowledge
 Keeping this in mind, here are some open ended questions that you can prepare for, which can be interpreted in any manner.
-
+...
 Problem
 What are some new things happening in the web?
 Explain a project that you have built?
